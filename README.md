@@ -32,3 +32,8 @@ Um obrigado a QcLiquid que fez o campo de paintball.
 Eu também tenho um script de corridas de kart se você estiver interessado!
 
 Bom paintball!
+
+# Arena
+![screenshot](https://cdn.discordapp.com/attachments/433059481815875595/433497065838870528/unknown.png)
+# Em Game
+![screenshot](https://cdn.discordapp.com/attachments/433059481815875595/433496798816894986/unknown1.png)
