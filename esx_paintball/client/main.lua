@@ -70,14 +70,6 @@ Citizen.CreateThread(function()
 	while true do
 		Citizen.Wait(0)
 		local pos = GetEntityCoords(GetPlayerPed(-1), true)
-
-		
-		RegisterNetEvent('esx:playerLoaded')
-		AddEventHandler('esx:playerLoaded', function(xPlayer)
-		playerJob = xPlayer.job.name
-		playerGrade = xPlayer.job.grade_name
-		PlayerData = xPlayer
-		end)
 		
 		
 		
